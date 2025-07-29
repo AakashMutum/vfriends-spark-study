@@ -44,6 +44,9 @@ export const HeroSection = () => {
                 variant="glow" 
                 size="xl"
                 className="group"
+                onClick={() => {
+                  window.dispatchEvent(new CustomEvent('openLoginModal', { detail: { role: 'asker' } }));
+                }}
               >
                 <Users className="w-5 h-5 group-hover:scale-110 transition-transform" />
                 Join as Asker
@@ -53,6 +56,9 @@ export const HeroSection = () => {
                 variant="coral" 
                 size="xl"
                 className="group"
+                onClick={() => {
+                  window.dispatchEvent(new CustomEvent('openLoginModal', { detail: { role: 'solver' } }));
+                }}
               >
                 <BookOpen className="w-5 h-5 group-hover:scale-110 transition-transform" />
                 Join as Solver
