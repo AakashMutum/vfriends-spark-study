@@ -1,73 +1,20 @@
-# Welcome to your Lovable project
+Vfriends: Your Instant Peer-to-Peer Learning Platform
+Connect with another person to tackle academic challenges together, in real-time.
 
-## Project info
-
-**URL**: https://lovable.dev/projects/cf12446d-92ea-492b-88a4-b74d83bf28b0
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/cf12446d-92ea-492b-88a4-b74d83bf28b0) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/cf12446d-92ea-492b-88a4-b74d83bf28b0) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+In the journey of learning, some doubts are best clarified through collaborative effort. 
+Vfriends is designed to bridge this gap by instantly connecting two individuals 
+– one with a question and another ready to help 
+– fostering a dynamic environment for peer-to-peer learning and problem-solving. 
+Whether you're stuck on a complex math problem or need a fresh perspective, 
+Vfriends aims to make finding a solution a shared, interactive experience.
+Features:
+Instant Pairing: Get matched with another user who can help solve your doubt or is looking for assistance.
+Real-time Communication: Collaborate seamlessly through integrated chat.
+Subject/Topic Matching: Specify the subject or topic of your doubt to get connected with a relevant partner.
+Intuitive User Interface: A clean and easy-to-navigate design for a smooth experience.
+Rating System: If users can rate their session or helper.
+How It Works:
+Submit Your Doubt: Briefly describe your question and specify the subject.
+Get Matched: Our system quickly finds and connects you with another user.
+Collaborate: Use the integrated communication tools to discuss and solve the doubt together.
+Resolve & Learn: Work through the problem collaboratively and gain new insights!
